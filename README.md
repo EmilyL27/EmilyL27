@@ -1,2 +1,1 @@
-Hi, I develop games with Unity. I know Lua, C#, and a bit of JavaScript.
-¯\_(ツ)_/¯
+Hi, I develop games with Unity. I know Lua, C#, and a small amount of Python. I've jumped around from engine to engine: Scratch, Roblox, Ren'py, Unity. Scratch helped me learn logic and then I could tackle the big ones lol
